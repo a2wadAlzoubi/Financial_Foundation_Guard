@@ -212,7 +212,7 @@ This project strengthened my understanding of:
 - Real-time notifications (SignalR)
 
 ---
-
+Code is private due to training program NDA, but architecture details are shared below
 ## 🛠 Setup Instructions
 
 ### Backend
